@@ -15,5 +15,5 @@ Ability to demonstrate experience in managing a business process change process 
 Ability to communicate experience with identifying enhancements, share work project experience in using BADis, user exits, RFC’s, Smartforms, BAPI’s etc.
 
 Thanks & Regards,
-Rakesh Kuraganti,
+Rakesh,
 rakesh.k@denkensolutions.com
